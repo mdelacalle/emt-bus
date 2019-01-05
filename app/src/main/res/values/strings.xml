@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmtBus</string>
+    <string name="ask_for_location">You need the GPS for using this app. Please connect it</string>
+    <string name="not_information">There is no information in this Stop.</string>
+    <string name="error">Error</string>
+    <string name="get_info">Retrieving info from EMT</string>
+</resources>
